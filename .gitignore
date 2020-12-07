@@ -1,4 +1,6 @@
 .DS_Store
 \Solutions
-*,pdf
+*.pdf
 *.zip
+.idea/
+.ipynb_checkpoints/
